@@ -33,8 +33,7 @@ Additionally, the project includes an AI system design analysis of an **Autonomo
 
 ## 📄 Project Resources
 
-- 📑 **Full Report:** `/docs/AI_Assignment_Report.pdf`
-- 🎥 **Video Presentation:** [Insert YouTube Link Here]
+- 📑 **Full Report:** `/docs/AI_RESEARCH_PAPERS.pdf`
 
 ---
 
